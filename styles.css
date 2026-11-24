@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(255, 225, 185)
+}
+
+.title {
+    background-color: rgb(150, 210, 255);
+    color: darkred;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 36px;
+}
+
+.stim-button {
+    background-color: rgb(60, 120, 255);
+    color: black;
+    font-size: 24px;
+}
